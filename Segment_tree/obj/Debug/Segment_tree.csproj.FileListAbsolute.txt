@@ -1,0 +1,6 @@
+C:\Users\Антон\Desktop\УЧЕБА\Самообучение\Segment_tree\Segment_tree\bin\Debug\Segment_tree.exe.config
+C:\Users\Антон\Desktop\УЧЕБА\Самообучение\Segment_tree\Segment_tree\bin\Debug\Segment_tree.exe
+C:\Users\Антон\Desktop\УЧЕБА\Самообучение\Segment_tree\Segment_tree\bin\Debug\Segment_tree.pdb
+C:\Users\Антон\Desktop\УЧЕБА\Самообучение\Segment_tree\Segment_tree\obj\Debug\Segment_tree.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\УЧЕБА\Самообучение\Segment_tree\Segment_tree\obj\Debug\Segment_tree.exe
+C:\Users\Антон\Desktop\УЧЕБА\Самообучение\Segment_tree\Segment_tree\obj\Debug\Segment_tree.pdb
